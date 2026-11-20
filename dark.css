@@ -1,0 +1,20 @@
+:root {
+  --accent-500: hsl(40, 48%, 42%);
+
+  --primary-500: hsl(214, 57%, 11%);
+
+  --background-color: hsl (304, 0%, 0%);
+}
+
+html {
+  background-color: hsl (304, 0%, 0%);
+  color: var(--primary-500);
+}
+
+h1 {
+  color: var(--primary-500);
+}
+
+a {
+  color: var(--accent-500);
+}

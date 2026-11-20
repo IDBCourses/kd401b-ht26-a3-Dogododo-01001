@@ -1,0 +1,13 @@
+:root {
+  --accent-500: hsl(40 48% 42%);
+
+  --primary-500: hsl(214 57% 11%);
+}
+
+h1 {
+  color: var(--primary-500);
+}
+
+p {
+  color: var(--primary-500);
+}
